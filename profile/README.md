@@ -1,5 +1,5 @@
 <img
-  src="tibero7.png"
+  src="./tibero7.png"
   alt="Tibero 7 Description"
   style="display: inline-block; margin: 0 auto; width: 768px"
 />
